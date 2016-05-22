@@ -1,0 +1,34 @@
+/*
+CSC 365 Fall 2014
+Homework 5
+*/
+
+body{
+	background: #CCCCFF;
+	font: 14pt bold sans-serif;
+}
+div.container{
+	text-align: center;
+}
+fieldset{
+	border: 5px solid black;
+	display: inline;
+	margin:0 auto;
+	text-align: center;
+	vertical-align: top;
+}
+h1{
+	font: 32pt bold;
+	margin: 0;
+	text-align: center;
+}
+textarea{
+	display: block;
+	font: 12pt bold monospace;
+	height: 400px;
+	margin:0 auto;
+	width: 90%;
+}
+#validators{
+    float: right;
+}
